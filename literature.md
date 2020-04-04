@@ -1,8 +1,14 @@
 # Literature review
 
-## Keywords
+## Jargon
 
+* RT-PCR
+* qPCR
+* Immunoassays
 * Self-contained point-of-care (POC)
+* Loop-Mediated Isothermal Amplification (LAMP)
+* 
+
 
 ## Must-reads
 
@@ -14,6 +20,7 @@
 * [Cepheid GeneXpert portable platform for qPCR](https://www.cepheid.com/coronavirus)
 * [STANDARD Q COVID-19 Ag](http://sdbiosensor.com/xe/product/7672)
 * [COVID-19 IgM/IgG Rapid Test](https://www.biomedomics.com/products/infectious-disease/covid-19-rt/) BioMedomics has developed and launched one of the world’s first rapid point-of-care lateral flow immunoassays for the diagnosis of coronavirus infection.
+* [M1800 WarmStart® Colorimetric LAMP 2X Master Mix](https://www.neb.com/products/m1800-warmstart-colorimetric-lamp-2x-master-mix-dna-rna#Product%20Information)
 
 ## Protocols
 
@@ -35,7 +42,7 @@
 ## Learning Resources
 
 * [Mini-PCR educational resources](https://www.minipcr.com/educational-resources/) Excellent learning materials about this subject
-* [Hackaday article on RT-PCR](https://hackaday.com/2020/03/30/coronavirus-testing-follow-up-rapid-immunologic-testing/) and [follow-up](https://hackaday.com/2020/03/30/coronavirus-testing-follow-up-rapid-immunologic-testing/) using immunoassays.
+* [Hackaday article on RT-PCR](https://hackaday.com/2020/03/24/coronavirus-testing-just-the-facts/) and [follow-up](https://hackaday.com/2020/03/30/coronavirus-testing-follow-up-rapid-immunologic-testing/) using immunoassays.
 
 ## Others
 
