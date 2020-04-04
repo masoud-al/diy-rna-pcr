@@ -27,8 +27,15 @@ Expertise we need:
 * Chemical engineer
 * Embedded software programmer
 
+## Community (non-commercial) efforts for Covid19 detection
+
+* [Low-cost & Open-Source Covid19 Detection kits](https://app.jogl.io/project/118) Developing and sharing open source methodologies to safely test for the presence of SARS-CoV-2 using multiple approaches.
+* [NinjaPCR's fight with COVID 19](https://github.com/hisashin/NinjaPCR/wiki/NinjaPCR's-fight-with-COVID-19)
+
+
 ## Related Projects
 
+* [Mini-PCR](https://www.minipcr.com/)
 * [PocketPCR](http://www.gaudi.ch/GaudiLabs/?page_id=873)
+* [NinjaPCR](https://ninjapcr.tori.st/)
 * [OpenDrop](http://www.gaudi.ch/GaudiLabs/?attachment_id=421)
-
